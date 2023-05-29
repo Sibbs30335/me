@@ -1,1 +1,2 @@
 TODO: Reflect on what you learned this week and what is still unclear.
+I learned how to code using python for the first time, and learn how to use different softwares that I have not used before. I'm still unclear about honestly a lot, but I plan to revise it all throughout this week. 
